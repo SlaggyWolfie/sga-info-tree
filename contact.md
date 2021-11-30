@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home
 title: "Contact"
-permalink: /about/contact
 ---
 
 
