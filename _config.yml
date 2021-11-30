@@ -1,17 +1,20 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            SGA — D2 Resources & Tools
+longtitle:        Super Good Advice — Destiny Resources & Tools
+author:           Slaggy
+#email:            sighingnow@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  A guide to Destiny 2 resources & tools.
 
-version:          1.0
+version:          0.0.1
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://slaggywolfie.github.io'
+baseurl:          '/sga-info-tree'
 rss:              RSS
+
+# Other settings
+page_excerpts : true
 
 toc:
   enabled: true
